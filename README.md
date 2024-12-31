@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hey there! I'm **ZephByte**  <br><br>🌟 **What I Do**:  <br>- 🛠️ **Minecraft Modding**: Building cool mods for the game we all love.  <br>- 📱 **Android Apps**: Crafting mobile solutions with elegance.  <br>- 🤝 **Open Source**: Passionate about contributing and collaborating in the OSS world.  <br><br>💻 **Languages I Love**:  <br>- 🔗 Kotlin  <br>- 💎 C++  <br>- 🐍 Python  <br><br>🎯 **Current Adventures**:  <br>- 🎮 Building my own **"Slime" IMU VR trackers**—open-source, DIY, and fun!  <br>- 🤖 Exploring **embedded systems** for the tech of tomorrow.  <br><br>🌱 **Fun Fact**:  <br>I'm 22, endlessly curious, and always excited to learn something new!  <br><br>Let's create something awesome together! 🚀  <br>
 
 
