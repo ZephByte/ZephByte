@@ -12,7 +12,7 @@
 
 🎯 **Current Adventures**:  
 - 🎮 Building my own **"Slime" IMU VR trackers**—open-source, DIY, and fun!  
-- 🤖 Exploring **embedded systems** for the tech of tomorrow.  
+- 🤖 Exploring **embedded systems**
 
 🌱 **Fun Fact**:  
 I'm 22, endlessly curious, and always excited to learn something new!  
