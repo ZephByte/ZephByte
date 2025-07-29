@@ -15,7 +15,7 @@
 - 🤖 Exploring **embedded systems**
 
 🌱 **Fun Fact**:  
-I'm 22, endlessly curious, and always excited to learn something new!  
+I'm 23, endlessly curious, and always excited to learn something new!  
 
 Let's create something awesome together! 🚀  
 
