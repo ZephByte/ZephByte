@@ -30,9 +30,3 @@ Let's create something awesome together! 🚀  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZephByte&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ZephByte&icon=0&color=6)](https://visitcount.itsvg.in)
