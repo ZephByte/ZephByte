@@ -6,7 +6,7 @@ Ever since I was a kid, I've loved taking things apart to see how they work. Now
 
 - 📱 **iOS & Android Development**: I build native apps for the tools we use every day. My goal is to create clean, useful software for fun and productivity—the kind of apps I'd want to use myself. No fluff, no scummy monetization, just good code.
 
-- 🛠️ **Minecraft Modding**: I love digging into game code to create new experiences. I'm the creator of the [**ScaledDragonFight**](https://modrinth.com/mod/scaled-dragon-fight) mod, which makes the Ender Dragon boss battle a real challenge. It's been downloaded over 200 times and you can check out the source code [right here on GitHub](https://github.com/ZephByte/ScaledDragonFight)!
+- 🛠️ **Minecraft Modding**: I love digging into game code to create new experiences. I'm the creator of the [**ScaledDragonFight**](https://modrinth.com/mod/scaled-dragon-fight) mod, which makes the Ender Dragon boss battle a real challenge. It's been downloaded over 1,000 times and you can check out the source code [right here on GitHub](https://github.com/ZephByte/ScaledDragonFight)!
 
 ### 💻 My Toolkit
 - Kotlin
