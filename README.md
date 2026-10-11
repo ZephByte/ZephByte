@@ -25,9 +25,6 @@ I like building small, practical software that I actually use, for the devices I
 - Python
 - Gradle
 - Git / GitHub / GitLab
-- Firebase
-- OpenTelemetry
-- Datadog
 
 ### Links
 
